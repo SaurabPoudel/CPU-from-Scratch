@@ -3,4 +3,4 @@ A Homebrew 32-bit CPU Built In Digital Logic on an FPGA
 
 Just started.
 
-![Adder-computer](./assets/adder-computer.gif)
+![Adder-computer](adder-computer.gif)
